@@ -1,0 +1,71 @@
+<PISI>
+    <Source>
+        <Name>python-padatious</Name>
+        <Packager>
+            <Name>Clive Johnston</Name>
+            <Email>clivejo@protonmail.com</Email>
+        </Packager>
+        <License>Apache-2.0</License>
+        <PartOf>programming.python</PartOf>
+        <Summary xml:lang="en">A neural network intent parser</Summary>
+        <Description xml:lang="en">An efficient and agile neural network intent parser
+</Description>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+    </Source>
+    <Package>
+        <Name>python-padatious</Name>
+        <Summary xml:lang="en">A neural network intent parser</Summary>
+        <Description xml:lang="en">An efficient and agile neural network intent parser
+</Description>
+        <PartOf>programming.python</PartOf>
+        <Files>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious-0.4.1-py3.6.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious-0.4.1-py3.6.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious-0.4.1-py3.6.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious-0.4.1-py3.6.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious-0.4.1-py3.6.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious-0.4.1-py3.6.egg-info/zip-safe</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/__pycache__/bracket_expansion.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/__pycache__/entity.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/__pycache__/entity_edge.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/__pycache__/entity_manager.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/__pycache__/id_manager.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/__pycache__/intent.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/__pycache__/intent_container.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/__pycache__/intent_manager.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/__pycache__/match_data.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/__pycache__/pos_intent.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/__pycache__/simple_intent.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/__pycache__/train_data.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/__pycache__/trainable.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/__pycache__/training_manager.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/__pycache__/util.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/bracket_expansion.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/entity.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/entity_edge.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/entity_manager.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/id_manager.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/intent.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/intent_container.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/intent_manager.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/match_data.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/pos_intent.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/simple_intent.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/train_data.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/trainable.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/training_manager.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/padatious/util.py</Path>
+        </Files>
+    </Package>
+    <History>
+        <Update release="1">
+            <Date>2018-07-17</Date>
+            <Version>0.4.1</Version>
+            <Comment>Packaging update</Comment>
+            <Name>Clive Johnston</Name>
+            <Email>clivejo@protonmail.com</Email>
+        </Update>
+    </History>
+</PISI>

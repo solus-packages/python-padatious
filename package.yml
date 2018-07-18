@@ -1,0 +1,19 @@
+name       : python-padatious
+version    : 0.4.1
+release    : 1
+source     :
+    - https://github.com/MycroftAI/padatious/archive/v0.4.1.tar.gz : 02e3d47b0c46a8ad5c11c4cf94f72a5057a3dbf27cc8fcfc6a0d73e655910102
+license    : Apache-2.0
+component  : programming.python
+summary    : A neural network intent parser
+description: |
+    An efficient and agile neural network intent parser
+builddeps  :
+    - pkgconfig(python3)
+rundeps    :
+    - python-fann2
+    - python-xxhash
+build      : |
+    %python3_setup
+install    : |
+    %python3_install
