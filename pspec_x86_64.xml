@@ -20,52 +20,52 @@
         <PartOf>programming.python</PartOf>
         <Files>
             <Path fileType="executable">/usr/bin/padatious</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious-0.4.7-py3.7.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious-0.4.7-py3.7.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious-0.4.7-py3.7.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious-0.4.7-py3.7.egg-info/entry_points.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious-0.4.7-py3.7.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious-0.4.7-py3.7.egg-info/top_level.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious-0.4.7-py3.7.egg-info/zip-safe</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/__main__.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/__pycache__/__init__.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/__pycache__/__main__.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/__pycache__/bracket_expansion.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/__pycache__/entity.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/__pycache__/entity_edge.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/__pycache__/entity_manager.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/__pycache__/id_manager.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/__pycache__/intent.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/__pycache__/intent_container.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/__pycache__/intent_manager.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/__pycache__/match_data.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/__pycache__/pos_intent.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/__pycache__/simple_intent.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/__pycache__/train_data.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/__pycache__/trainable.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/__pycache__/training_manager.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/__pycache__/util.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/bracket_expansion.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/entity.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/entity_edge.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/entity_manager.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/id_manager.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/intent.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/intent_container.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/intent_manager.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/match_data.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/pos_intent.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/simple_intent.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/train_data.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/trainable.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/training_manager.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/padatious/util.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious-0.4.7-py3.9.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious-0.4.7-py3.9.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious-0.4.7-py3.9.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious-0.4.7-py3.9.egg-info/entry_points.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious-0.4.7-py3.9.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious-0.4.7-py3.9.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious-0.4.7-py3.9.egg-info/zip-safe</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/__main__.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/__pycache__/__init__.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/__pycache__/__main__.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/__pycache__/bracket_expansion.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/__pycache__/entity.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/__pycache__/entity_edge.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/__pycache__/entity_manager.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/__pycache__/id_manager.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/__pycache__/intent.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/__pycache__/intent_container.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/__pycache__/intent_manager.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/__pycache__/match_data.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/__pycache__/pos_intent.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/__pycache__/simple_intent.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/__pycache__/train_data.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/__pycache__/trainable.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/__pycache__/training_manager.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/__pycache__/util.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/bracket_expansion.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/entity.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/entity_edge.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/entity_manager.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/id_manager.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/intent.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/intent_container.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/intent_manager.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/match_data.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/pos_intent.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/simple_intent.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/train_data.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/trainable.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/training_manager.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/padatious/util.py</Path>
         </Files>
     </Package>
     <History>
-        <Update release="3">
-            <Date>2020-01-25</Date>
+        <Update release="4">
+            <Date>2021-07-28</Date>
             <Version>0.4.7</Version>
             <Comment>Packaging update</Comment>
             <Name>Joey Riches</Name>
